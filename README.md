@@ -1,2 +1,2 @@
 # DSW-YEAR-projects-for-showcase-template
-put link to site here after publishing it on GitHub pages
+https://sbhs-computer-science-academy.github.io/DSW-25-26-projects-for-showcase/
