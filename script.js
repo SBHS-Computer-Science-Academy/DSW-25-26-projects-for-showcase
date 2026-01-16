@@ -1,8 +1,10 @@
 // Each name should be in the format "Stu1, Stu2, and Stu3" with two URLs: the student's website first followed by the repo for the website.
 // The boolean should indicate whether or not the website has the option to login with GitHub OAuth.
 var projects = [
-    ["David and Evander", "https://evandergibson.github.io/digital-art-muesuem/", "https://github.com/EvanderGibson/digital-art-muesuem"],
-    ["Emiliano and Gio", "https://dsw-final-project-template.onrender.com/", "https://github.com/Floor-board/DSW-final-project-template/tree/master"]
+    ["Lily and Ann", "https://ann-liliana-dsw-final-project.onrender.com/", "https://github.com/burningChairs/Ann-Liliana-DSW-final-project"],
+    ["George and Zade", "https://final-project-tatx.onrender.com/", "https://github.com/rogue-acid/Final-Project"],
+    ["Juan and Kayleb", "https://final-project-o075.onrender.com/", "https://github.com/JuanSanchez001/Final-Project"],
+    ["Alice and Melanie", "https://dsw-final-project-1-1liq.onrender.com/", "https://github.com/MelanieCampuzano/DSW-Final-Project"]
 ];
 
 var gridWidth = 4;
